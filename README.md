@@ -1,6 +1,6 @@
-#Jamaal's Blog
+# Jamaal's Blog
 
-#React Application
+# React Application
 
 # Getting Started with Create React App
 
